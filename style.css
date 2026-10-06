@@ -1,0 +1,18 @@
+button{
+    width: 100px;
+    height: 100px;
+    color: black;
+    align-content: center;
+}
+
+body{
+    background-color: rgb(216, 51, 51);
+}
+
+div{
+    color: white;
+}
+
+.final{
+    white-space: pre-line;
+}
